@@ -103,5 +103,5 @@ sales_fact (central fact table)
 
 ## 👤 Author
 **Indumathi Thiruvenkadam**
-indumathi1305@gmail.com
-(https://github.com/Indumathi96)
+[GitHub](indumathi1305@gmail.com)
+EmailAddress: (https://github.com/Indumathi96)
