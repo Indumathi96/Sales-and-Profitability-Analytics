@@ -69,25 +69,25 @@ sales_fact (central fact table)
 ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/01_Executive_Overview.png)
+![Executive Overview](01_Executive_Overview.png)
 
 ### Product Intelligence
-![Product Intelligence](Screenshots/02_Product_Intelligence.png)
+![Product Intelligence](02_Product_Intelligence.png)
 
 ### Customer & Segment Intelligence
-![Customer & Segment](Screenshots/03_Customer_Segment.png)
+![Customer & Segment](03_Customer_Segment.png)
 
 ### Fulfillment & Customer Trends
-![Fulfillment](Screenshots/04_Fulfillment.png)
+![Fulfillment](04_Fulfillment.png)
 
 ### Monthly Trend
-![Monthly Trend](Screenshots/05_Monthly_Trend.png)
+![Monthly Trend](05_Monthly_Trend.png)
 
 ### Product Deep Dive
-![Product Deep Dive](Screenshots/06_Product_Deep_Dive.png)
+![Product Deep Dive](06_Product_Deep_Dive.png)
 
 ### Loss Analysis
-![Loss Analysis](Screenshots/07_Loss_Analysis.png)
+![Loss Analysis](07_Loss_Analysis.png)
 
 ---
 
